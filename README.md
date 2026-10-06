@@ -1,8 +1,8 @@
 # Customer 360 and Next Best Action Engine
 
 A lightweight Streamlit dashboard that brings synthetic customer profiles, transaction patterns, explainable health scores, and practical next-best-action recommendations into one place.
-🔗 Live Demo:** https://customer-360-next-best-action--govindbhaiyya23.replit.app/customer360/
-
+Live Demo:** https://customer-360-next-best-action.streamlit.app/
+Backup Demo:** https://customer-360-next-best-action--govindbhaiyya23.replit.app/customer360/
 ## Problem
 
 Customer data is spread across products, channels and support systems. Teams can't see the full picture, so they miss customers who are about to churn and customers who are ready for another product.
