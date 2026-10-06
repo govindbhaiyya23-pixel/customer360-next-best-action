@@ -1,0 +1,501 @@
+customer_id,name,age,gender,city,segment,tenure_months,products_held,num_products,monthly_spend,avg_balance,last_login_days_ago,last_transaction_days_ago,support_tickets_last_90d,satisfaction_score,loan_active,credit_utilization,email_opt_in,preferred_channel
+CUST-0001,Diya Gupta,60,Male,Ahmedabad,Retail,32,Insurance,1,9867.24,10374.66,19,35,1,8,N,0.0,N,App
+CUST-0002,Rohan Gupta,21,Female,Jaipur,Retail,66,Personal Loan;Savings,2,7839.44,16167.15,12,5,0,9,N,0.0,Y,App
+CUST-0003,Diya Patel,34,Male,Hyderabad,SME,42,Credit Card;Savings;Personal Loan,3,32340.53,930480.0,68,35,1,8,N,44.1,Y,App
+CUST-0004,Vihaan Gupta,46,Female,Ahmedabad,Premium,90,Savings,1,62987.84,267697.71,69,7,0,8,N,0.0,Y,App
+CUST-0005,Tara Mehta,22,Female,Jaipur,Premium,51,Savings;Credit Card,2,15988.76,450496.24,21,52,1,7,N,57.5,N,Call
+CUST-0006,Meera Pillai,66,Female,Chennai,Retail,108,Insurance;Savings,2,3955.51,29570.89,6,80,2,3,N,0.0,N,Email
+CUST-0007,Arjun Kapoor,22,Female,Jaipur,Retail,100,Savings;Fixed Deposit,2,6813.48,170413.67,1,11,0,6,N,0.0,Y,Email
+CUST-0008,Anaya Rao,53,Male,Jaipur,Premium,152,Investment;Personal Loan;Fixed Deposit;Insurance,4,25589.34,218516.93,8,4,0,6,N,0.0,Y,App
+CUST-0009,Anaya Joshi,54,Female,Bengaluru,Retail,143,Savings;Credit Card;Fixed Deposit,3,3530.93,56178.2,8,18,1,5,N,39.0,Y,Call
+CUST-0010,Diya Rao,49,Male,Mumbai,Retail,169,Credit Card,1,51897.98,115591.93,10,27,0,8,N,84.1,N,App
+CUST-0011,Aditya Desai,48,Female,Ahmedabad,Retail,104,Personal Loan;Credit Card,2,27999.19,136627.93,20,28,0,6,N,65.6,Y,Email
+CUST-0012,Kabir Iyer,64,Female,Delhi,Premium,100,Investment,1,38583.05,110508.72,28,21,4,7,Y,0.0,Y,App
+CUST-0013,Neha Patel,69,Male,Delhi,Retail,160,Insurance,1,6331.24,71165.82,26,11,1,6,Y,0.0,Y,App
+CUST-0014,Kavya Kapoor,24,Female,Bengaluru,Retail,43,Investment;Personal Loan;Savings;Credit Card,4,7566.83,27984.98,7,36,1,8,N,91.8,N,Email
+CUST-0015,Meera Iyer,21,Male,Mumbai,SME,98,Fixed Deposit;Insurance;Credit Card,3,53434.65,167813.33,7,87,1,2,Y,35.8,Y,Email
+CUST-0016,Tara Mehta,47,Male,Delhi,Retail,76,Fixed Deposit;Insurance;Investment,3,2329.96,17683.84,16,42,1,4,Y,0.0,Y,Email
+CUST-0017,Diya Shah,49,Female,Jaipur,Premium,83,Credit Card;Personal Loan,2,62381.56,451502.64,36,40,3,9,Y,42.2,Y,App
+CUST-0018,Meera Patel,58,Female,Ahmedabad,Retail,86,Fixed Deposit;Investment,2,16647.89,203005.29,19,8,0,8,N,0.0,Y,SMS
+CUST-0019,Rohan Iyer,58,Male,Chennai,Retail,96,Fixed Deposit;Investment;Credit Card,3,5334.54,46116.85,73,29,2,4,N,7.2,Y,App
+CUST-0020,Vihaan Gupta,60,Male,Pune,Retail,69,Investment;Credit Card,2,6646.07,67819.57,1,6,0,4,N,50.2,N,App
+CUST-0021,Meera Desai,44,Female,Bengaluru,SME,79,Investment;Savings,2,30745.5,2875176.67,36,9,0,8,N,0.0,Y,App
+CUST-0022,Anaya Joshi,33,Female,Jaipur,Retail,7,Personal Loan;Fixed Deposit;Insurance,3,14616.69,74842.33,14,31,0,8,Y,0.0,N,Call
+CUST-0023,Neha Rao,21,Female,Chennai,Premium,111,Personal Loan;Investment;Insurance,3,28495.98,260633.36,33,66,0,10,N,0.0,Y,App
+CUST-0024,Ishaan Iyer,41,Male,Pune,Retail,86,Insurance,1,6340.87,78960.48,51,30,2,5,N,0.0,Y,Call
+CUST-0025,Aditya Singh,65,Male,Pune,Retail,41,Personal Loan,1,4856.34,71841.55,2,29,1,5,Y,0.0,Y,Email
+CUST-0026,Kabir Verma,37,Male,Bengaluru,Retail,149,Insurance;Credit Card,2,9098.9,44604.06,21,11,0,5,N,12.0,N,App
+CUST-0027,Vihaan Verma,55,Male,Mumbai,Retail,143,Insurance;Personal Loan,2,3619.59,57726.89,35,6,3,6,N,0.0,Y,App
+CUST-0028,Ishaan Kapoor,45,Non-binary,Delhi,Retail,39,Fixed Deposit;Credit Card,2,7864.04,183900.51,34,8,1,4,N,89.8,N,Email
+CUST-0029,Zoya Pillai,29,Non-binary,Bengaluru,Retail,136,Credit Card;Investment;Insurance;Savings,4,11513.24,152452.3,39,6,1,7,N,76.6,Y,Email
+CUST-0030,Kabir Shah,26,Female,Jaipur,Retail,152,Investment;Personal Loan,2,13668.43,16477.2,42,25,1,7,N,0.0,Y,App
+CUST-0031,Saanvi Nair,68,Male,Pune,Premium,106,Insurance;Fixed Deposit;Savings;Personal Loan,4,60005.08,1689125.83,19,11,0,8,N,0.0,Y,App
+CUST-0032,Zoya Iyer,33,Female,Mumbai,Retail,81,Insurance,1,11537.32,9954.82,55,44,0,8,N,0.0,N,App
+CUST-0033,Meera Nair,66,Female,Hyderabad,Retail,108,Fixed Deposit;Savings,2,8288.9,56992.75,29,10,1,7,N,0.0,Y,App
+CUST-0034,Saanvi Reddy,35,Male,Mumbai,Premium,174,Fixed Deposit;Insurance,2,64576.96,779178.06,4,25,1,10,N,0.0,Y,Email
+CUST-0035,Aarav Singh,32,Male,Delhi,Retail,167,Credit Card;Investment,2,36463.11,36523.62,21,22,4,7,N,89.5,Y,Call
+CUST-0036,Meera Patel,36,Non-binary,Chennai,SME,5,Personal Loan;Fixed Deposit,2,130361.78,584482.32,25,8,5,9,N,0.0,Y,App
+CUST-0037,Kavya Pillai,59,Male,Pune,Retail,98,Fixed Deposit,1,3429.82,26456.12,14,33,4,4,N,0.0,N,App
+CUST-0038,Saanvi Mehta,40,Female,Jaipur,Premium,171,Fixed Deposit;Investment,2,19313.94,341295.17,4,20,1,7,N,0.0,Y,Call
+CUST-0039,Rohan Pillai,56,Female,Ahmedabad,Retail,156,Investment;Fixed Deposit,2,10788.05,64479.33,36,7,2,8,N,0.0,Y,Email
+CUST-0040,Rohan Nair,70,Female,Bengaluru,Retail,146,Savings;Credit Card,2,8432.28,35964.98,104,41,1,9,Y,53.5,N,Email
+CUST-0041,Aarav Pillai,60,Male,Mumbai,Retail,159,Investment,1,3922.77,18492.18,24,28,1,10,N,0.0,Y,Call
+CUST-0042,Arjun Rao,49,Male,Jaipur,Retail,102,Investment;Insurance;Fixed Deposit,3,17030.78,70829.94,30,23,3,7,Y,0.0,N,SMS
+CUST-0043,Kavya Kapoor,44,Female,Chennai,SME,180,Insurance,1,48297.19,490580.62,3,8,0,8,N,0.0,N,App
+CUST-0044,Diya Das,62,Non-binary,Delhi,Retail,51,Fixed Deposit;Insurance;Investment,3,4786.61,18206.66,25,26,0,10,Y,0.0,Y,App
+CUST-0045,Rohan Desai,65,Female,Hyderabad,Premium,172,Insurance,1,14723.59,865614.48,57,27,0,9,Y,0.0,Y,Email
+CUST-0046,Saanvi Reddy,65,Male,Hyderabad,Retail,71,Savings,1,5324.97,29985.07,2,30,0,7,N,0.0,Y,App
+CUST-0047,Neha Mehta,58,Female,Ahmedabad,Retail,140,Credit Card,1,7778.29,49271.46,20,8,1,8,Y,58.9,Y,App
+CUST-0048,Zoya Iyer,60,Female,Jaipur,Premium,42,Savings;Fixed Deposit,2,73606.99,1251920.26,9,68,1,8,N,0.0,N,Email
+CUST-0049,Rohan Das,68,Female,Pune,Premium,67,Fixed Deposit;Personal Loan,2,9423.19,1094212.42,6,22,2,6,N,0.0,Y,App
+CUST-0050,Kavya Rao,66,Male,Mumbai,SME,108,Fixed Deposit,1,122795.0,850604.74,55,11,1,6,N,0.0,Y,Call
+CUST-0051,Rohan Mehta,69,Male,Bengaluru,Retail,3,Insurance;Personal Loan;Fixed Deposit,3,12486.43,167448.72,16,2,4,6,N,0.0,Y,App
+CUST-0052,Anaya Patel,58,Female,Jaipur,Retail,8,Fixed Deposit;Investment;Insurance,3,7038.51,92525.06,13,1,0,9,N,0.0,Y,SMS
+CUST-0053,Tara Khan,36,Female,Bengaluru,Premium,119,Insurance,1,31652.55,307028.93,17,14,0,9,Y,0.0,N,Call
+CUST-0054,Neha Rao,61,Female,Ahmedabad,Retail,47,Investment;Insurance;Credit Card,3,13186.51,101030.94,61,62,1,8,Y,94.8,Y,SMS
+CUST-0055,Kabir Iyer,40,Male,Hyderabad,Retail,111,Fixed Deposit,1,20345.01,160226.44,22,15,3,5,N,0.0,Y,App
+CUST-0056,Neha Pillai,23,Male,Jaipur,Retail,152,Credit Card;Investment,2,4884.49,37805.61,33,28,0,9,N,57.4,Y,SMS
+CUST-0057,Kabir Mehta,50,Female,Pune,Retail,64,Investment;Savings;Insurance;Personal Loan,4,6278.24,29507.04,15,14,3,9,N,0.0,N,Email
+CUST-0058,Neha Verma,21,Male,Bengaluru,Premium,35,Insurance,1,18642.7,1169076.43,49,6,0,5,Y,0.0,N,App
+CUST-0059,Arjun Das,29,Male,Bengaluru,Retail,170,Insurance;Personal Loan,2,5526.9,29689.48,3,26,0,9,Y,0.0,N,App
+CUST-0060,Diya Mehta,27,Male,Ahmedabad,Retail,37,Insurance;Personal Loan;Fixed Deposit,3,9507.98,161117.76,24,3,2,6,Y,0.0,Y,App
+CUST-0061,Kavya Das,67,Male,Chennai,Premium,89,Savings;Fixed Deposit;Credit Card;Investment,4,56300.6,270522.86,36,6,5,2,N,69.0,Y,App
+CUST-0062,Saanvi Nair,55,Female,Delhi,Retail,72,Investment,1,9000.99,48752.09,44,43,2,10,N,0.0,Y,App
+CUST-0063,Aditya Reddy,23,Female,Delhi,Retail,31,Fixed Deposit,1,10163.22,122381.39,42,9,1,7,N,0.0,N,App
+CUST-0064,Arjun Gupta,27,Male,Bengaluru,Premium,73,Fixed Deposit;Savings,2,60359.55,224359.51,29,21,0,6,N,0.0,Y,App
+CUST-0065,Aarav Gupta,25,Female,Delhi,Retail,83,Personal Loan,1,4728.31,56921.44,4,27,0,8,N,0.0,Y,Call
+CUST-0066,Arjun Reddy,25,Female,Jaipur,SME,160,Fixed Deposit,1,71611.07,1099056.21,13,4,0,7,N,0.0,Y,App
+CUST-0067,Anaya Das,46,Female,Chennai,Premium,81,Credit Card;Investment;Savings;Fixed Deposit,4,106990.6,121955.98,120,33,1,9,N,50.4,Y,App
+CUST-0068,Zoya Verma,46,Female,Jaipur,Premium,95,Insurance;Personal Loan;Credit Card,3,57382.18,168654.57,30,10,1,4,N,80.1,Y,SMS
+CUST-0069,Ishaan Kapoor,66,Male,Bengaluru,Retail,40,Personal Loan,1,18792.16,24298.27,39,24,1,8,N,0.0,N,App
+CUST-0070,Diya Singh,35,Female,Delhi,Premium,39,Savings,1,34784.53,136502.84,40,7,2,10,N,0.0,N,Call
+CUST-0071,Aditya Joshi,67,Female,Bengaluru,SME,156,Credit Card,1,39211.82,1367723.02,77,15,3,5,N,71.8,N,App
+CUST-0072,Neha Patel,34,Male,Hyderabad,SME,149,Savings;Investment;Fixed Deposit;Personal Loan,4,33025.38,180849.64,11,17,0,6,Y,0.0,Y,App
+CUST-0073,Anaya Gupta,37,Female,Mumbai,Retail,47,Personal Loan;Savings,2,5608.47,64072.4,18,20,0,6,N,0.0,N,Email
+CUST-0074,Aditya Gupta,26,Male,Mumbai,Retail,57,Investment;Savings,2,11616.35,14705.16,63,6,0,9,N,0.0,Y,App
+CUST-0075,Kabir Shah,33,Male,Pune,Retail,160,Personal Loan;Insurance;Credit Card,3,14050.62,36474.49,24,15,0,9,N,25.0,Y,Email
+CUST-0076,Aanya Gupta,35,Female,Bengaluru,Premium,85,Credit Card;Investment;Savings,3,51769.24,572842.76,13,75,1,8,Y,47.5,Y,SMS
+CUST-0077,Meera Das,69,Male,Chennai,Retail,172,Investment;Savings,2,4753.86,25403.56,43,22,2,5,Y,0.0,Y,App
+CUST-0078,Aarav Rao,25,Male,Mumbai,Retail,119,Personal Loan,1,5395.91,36433.28,27,7,2,7,N,0.0,Y,App
+CUST-0079,Meera Gupta,25,Male,Ahmedabad,Retail,71,Investment;Personal Loan;Credit Card,3,14259.81,5914.91,41,18,4,6,N,41.3,Y,App
+CUST-0080,Kavya Singh,21,Male,Hyderabad,Retail,47,Fixed Deposit;Investment;Credit Card,3,1512.22,95431.64,44,9,1,7,N,50.5,N,SMS
+CUST-0081,Vihaan Shah,32,Male,Pune,Retail,84,Investment;Personal Loan,2,15758.46,94952.14,48,13,0,8,Y,0.0,Y,Call
+CUST-0082,Arjun Iyer,38,Female,Jaipur,SME,59,Credit Card,1,15264.54,2261331.98,17,36,2,8,N,66.9,N,Call
+CUST-0083,Neha Verma,35,Female,Delhi,Retail,90,Savings,1,8725.75,16001.14,25,39,0,8,Y,0.0,Y,SMS
+CUST-0084,Diya Singh,35,Male,Delhi,SME,85,Investment,1,31518.7,2059505.09,33,19,1,4,N,0.0,Y,Email
+CUST-0085,Vihaan Shah,66,Female,Hyderabad,Retail,87,Investment,1,3574.61,12435.72,6,29,0,6,N,0.0,Y,Email
+CUST-0086,Diya Verma,62,Male,Hyderabad,SME,80,Savings;Personal Loan,2,103207.6,255731.7,64,65,2,4,N,0.0,Y,SMS
+CUST-0087,Saanvi Das,41,Male,Bengaluru,Retail,13,Fixed Deposit,1,6355.15,98869.23,5,8,4,9,N,0.0,Y,Email
+CUST-0088,Neha Singh,25,Male,Bengaluru,SME,180,Savings;Credit Card;Investment;Fixed Deposit,4,60085.91,570700.83,16,120,0,6,N,54.0,Y,SMS
+CUST-0089,Aanya Rao,60,Female,Ahmedabad,Retail,112,Savings,1,12901.09,50562.79,13,30,1,9,N,0.0,Y,App
+CUST-0090,Ishaan Desai,21,Male,Mumbai,Retail,154,Personal Loan,1,15603.04,100617.13,12,15,1,5,Y,0.0,N,App
+CUST-0091,Vihaan Kapoor,32,Female,Mumbai,SME,60,Credit Card;Fixed Deposit,2,43791.34,316814.99,30,15,0,9,N,8.1,Y,App
+CUST-0092,Arjun Singh,50,Male,Chennai,Retail,33,Insurance;Savings;Credit Card,3,6744.4,41601.74,12,30,5,9,N,23.9,Y,SMS
+CUST-0093,Neha Rao,46,Female,Chennai,Premium,70,Insurance,1,30435.46,118188.69,32,26,2,6,N,0.0,Y,App
+CUST-0094,Aarav Desai,60,Male,Mumbai,Retail,119,Personal Loan;Insurance;Investment,3,17222.96,218462.38,11,14,1,10,N,0.0,Y,SMS
+CUST-0095,Kabir Desai,63,Female,Pune,Retail,63,Personal Loan,1,5884.85,200679.92,10,19,4,7,Y,0.0,Y,App
+CUST-0096,Arjun Shah,45,Female,Delhi,Retail,2,Fixed Deposit;Insurance;Credit Card;Personal Loan,4,23971.33,11700.87,35,0,0,8,N,31.1,N,Call
+CUST-0097,Zoya Joshi,57,Female,Bengaluru,Premium,177,Personal Loan,1,30654.34,1129945.67,14,5,1,6,Y,0.0,N,Email
+CUST-0098,Ishaan Mehta,41,Male,Mumbai,SME,55,Credit Card;Personal Loan;Investment,3,114973.88,2263891.57,76,35,1,6,N,8.5,Y,Email
+CUST-0099,Kavya Reddy,50,Female,Mumbai,Retail,72,Personal Loan;Investment,2,2862.17,45771.72,90,30,2,6,Y,0.0,Y,Email
+CUST-0100,Rohan Iyer,46,Male,Pune,Premium,64,Savings;Investment,2,32850.77,1228701.12,16,12,0,10,N,0.0,N,App
+CUST-0101,Kavya Rao,21,Female,Jaipur,Retail,164,Savings;Fixed Deposit;Investment,3,3433.2,23783.12,56,8,1,6,Y,0.0,Y,Email
+CUST-0102,Vihaan Joshi,40,Male,Chennai,Retail,155,Savings;Fixed Deposit,2,6870.01,73591.44,18,28,2,8,N,0.0,Y,Email
+CUST-0103,Ishaan Mehta,21,Male,Chennai,Premium,161,Savings;Personal Loan,2,31105.76,1388993.94,17,7,0,7,N,0.0,Y,App
+CUST-0104,Neha Kapoor,36,Female,Hyderabad,Retail,68,Savings;Fixed Deposit,2,19569.09,21620.72,13,35,0,7,N,0.0,Y,App
+CUST-0105,Saanvi Verma,28,Female,Delhi,Retail,152,Personal Loan,1,18146.32,55329.35,21,34,1,6,Y,0.0,Y,Email
+CUST-0106,Aarav Verma,50,Female,Chennai,Retail,55,Fixed Deposit;Investment;Savings,3,8966.45,176173.13,29,5,0,8,N,0.0,N,Call
+CUST-0107,Tara Rao,36,Male,Delhi,SME,30,Insurance;Savings;Personal Loan;Fixed Deposit,4,114288.59,206583.51,41,32,1,7,Y,0.0,Y,Email
+CUST-0108,Anaya Iyer,69,Male,Bengaluru,Retail,166,Fixed Deposit;Investment,2,5074.98,25409.06,37,8,0,8,Y,0.0,Y,App
+CUST-0109,Kabir Reddy,33,Male,Ahmedabad,Retail,29,Investment;Personal Loan,2,7630.92,25731.12,10,14,2,6,N,0.0,Y,Email
+CUST-0110,Rohan Rao,31,Male,Chennai,Premium,136,Investment,1,43847.51,557287.6,34,30,1,8,N,0.0,N,SMS
+CUST-0111,Aditya Das,58,Female,Hyderabad,Retail,95,Savings;Credit Card,2,4130.69,106012.79,56,12,2,8,Y,92.7,Y,App
+CUST-0112,Aditya Iyer,64,Male,Jaipur,Retail,80,Fixed Deposit,1,6572.28,46241.24,28,24,0,5,Y,0.0,Y,Email
+CUST-0113,Neha Rao,59,Male,Hyderabad,Retail,20,Investment;Credit Card,2,26108.46,44418.46,10,47,0,6,N,5.7,N,App
+CUST-0114,Neha Joshi,60,Female,Mumbai,Retail,159,Personal Loan;Savings;Insurance,3,12543.91,83858.35,12,64,5,6,N,0.0,N,SMS
+CUST-0115,Aditya Joshi,69,Non-binary,Jaipur,Retail,115,Investment,1,6519.35,151804.51,41,17,0,7,Y,0.0,Y,App
+CUST-0116,Zoya Das,38,Male,Pune,Premium,14,Fixed Deposit;Savings;Investment,3,41578.24,1050457.35,35,23,5,9,N,0.0,N,App
+CUST-0117,Aanya Nair,25,Female,Bengaluru,Retail,30,Investment;Insurance,2,6934.32,57347.44,2,69,0,7,N,0.0,N,App
+CUST-0118,Aditya Verma,35,Male,Mumbai,Retail,114,Investment,1,6415.78,17597.06,15,1,4,10,N,0.0,Y,SMS
+CUST-0119,Ishaan Iyer,24,Male,Ahmedabad,Retail,74,Personal Loan;Investment;Savings,3,2513.29,24185.27,54,12,3,5,N,0.0,Y,App
+CUST-0120,Aanya Shah,24,Male,Bengaluru,Retail,59,Credit Card;Investment,2,6109.56,65392.92,48,8,0,5,N,26.7,Y,Call
+CUST-0121,Aarav Das,67,Male,Delhi,Retail,177,Investment,1,12952.13,172073.9,14,69,0,8,N,0.0,Y,Email
+CUST-0122,Ishaan Iyer,33,Female,Pune,Retail,26,Insurance,1,7799.59,79205.15,120,1,1,9,N,0.0,Y,Email
+CUST-0123,Tara Patel,49,Female,Hyderabad,Retail,170,Investment,1,22116.81,146049.48,29,13,3,7,N,0.0,N,Email
+CUST-0124,Rohan Singh,33,Female,Chennai,Retail,68,Credit Card;Investment,2,17352.08,12259.88,67,4,0,9,N,93.0,Y,App
+CUST-0125,Meera Shah,49,Male,Delhi,Premium,171,Savings;Fixed Deposit,2,15496.7,233783.73,2,23,2,8,Y,0.0,Y,App
+CUST-0126,Rohan Joshi,63,Male,Bengaluru,Retail,178,Savings;Investment;Fixed Deposit;Credit Card,4,10342.9,24838.24,6,17,0,3,N,9.2,Y,Call
+CUST-0127,Aarav Iyer,33,Female,Hyderabad,Retail,89,Investment,1,7867.69,55039.13,20,54,2,8,N,0.0,Y,Email
+CUST-0128,Diya Iyer,47,Female,Mumbai,Retail,33,Investment;Savings;Insurance;Personal Loan,4,10482.73,109135.76,6,11,2,7,N,0.0,N,SMS
+CUST-0129,Neha Reddy,37,Male,Mumbai,Retail,107,Personal Loan;Fixed Deposit;Credit Card,3,12407.22,27974.56,7,41,0,7,N,48.9,Y,Call
+CUST-0130,Zoya Nair,69,Female,Chennai,Retail,76,Investment;Personal Loan,2,14575.78,43007.16,5,57,2,7,N,0.0,Y,App
+CUST-0131,Saanvi Khan,58,Female,Delhi,Retail,149,Personal Loan;Savings;Investment,3,4064.18,38947.98,28,39,2,8,N,0.0,Y,App
+CUST-0132,Kavya Patel,54,Female,Jaipur,Retail,95,Fixed Deposit;Investment;Personal Loan,3,4833.05,14707.35,4,13,1,6,N,0.0,Y,App
+CUST-0133,Neha Rao,58,Female,Mumbai,Retail,50,Savings,1,5430.68,133383.86,13,16,0,8,N,0.0,N,Call
+CUST-0134,Aarav Rao,45,Female,Pune,Premium,50,Investment;Insurance;Credit Card,3,24105.2,91699.47,37,9,0,10,Y,41.1,N,App
+CUST-0135,Diya Patel,31,Female,Chennai,SME,43,Credit Card;Insurance,2,47568.05,144734.05,38,10,0,8,Y,92.8,N,Email
+CUST-0136,Ishaan Rao,29,Male,Chennai,Retail,177,Insurance;Investment;Credit Card;Fixed Deposit,4,3040.8,80393.99,12,83,0,5,Y,65.0,Y,Email
+CUST-0137,Vihaan Patel,56,Male,Jaipur,Retail,150,Insurance;Investment,2,2581.32,115506.61,12,12,2,4,N,0.0,Y,App
+CUST-0138,Kabir Kapoor,56,Male,Pune,Retail,140,Personal Loan,1,26959.69,81058.61,25,12,1,4,N,0.0,N,Call
+CUST-0139,Arjun Shah,54,Female,Delhi,Retail,109,Investment;Credit Card,2,5146.3,57405.45,14,18,0,5,N,42.9,Y,App
+CUST-0140,Ishaan Desai,47,Female,Delhi,Retail,42,Fixed Deposit;Investment,2,7604.59,118326.46,27,2,2,7,N,0.0,Y,App
+CUST-0141,Ishaan Das,46,Female,Pune,Retail,134,Fixed Deposit;Savings;Investment;Credit Card,4,4405.11,22625.85,4,29,1,6,N,37.3,Y,App
+CUST-0142,Ishaan Joshi,65,Female,Bengaluru,Premium,84,Credit Card;Personal Loan,2,75922.68,1361323.89,38,10,0,7,N,19.0,Y,App
+CUST-0143,Ishaan Iyer,51,Female,Pune,Premium,119,Personal Loan;Credit Card,2,19336.7,114931.44,49,23,0,4,N,32.7,Y,Call
+CUST-0144,Neha Kapoor,36,Male,Jaipur,Retail,59,Investment;Insurance,2,8912.73,62525.62,11,48,0,2,N,0.0,Y,Email
+CUST-0145,Aarav Das,36,Female,Pune,SME,153,Insurance,1,45650.86,460188.51,25,12,1,3,N,0.0,Y,App
+CUST-0146,Meera Kapoor,30,Female,Pune,Retail,173,Investment;Personal Loan;Credit Card,3,2094.64,50596.26,63,39,0,1,Y,60.7,Y,SMS
+CUST-0147,Anaya Gupta,41,Female,Chennai,Retail,30,Investment;Personal Loan,2,4889.95,25840.64,40,5,0,4,N,0.0,Y,App
+CUST-0148,Saanvi Patel,47,Male,Delhi,SME,6,Savings;Credit Card,2,58687.29,152422.59,12,79,1,4,Y,46.6,N,SMS
+CUST-0149,Kavya Iyer,68,Non-binary,Hyderabad,Premium,15,Insurance;Fixed Deposit;Savings;Investment,4,42144.71,1148682.96,4,29,1,3,N,0.0,N,Email
+CUST-0150,Anaya Shah,42,Male,Pune,SME,133,Fixed Deposit;Insurance;Credit Card;Personal Loan,4,265014.87,284971.15,15,11,0,9,N,37.5,Y,App
+CUST-0151,Aanya Kapoor,63,Female,Ahmedabad,Retail,15,Credit Card;Fixed Deposit;Savings,3,14698.26,90973.32,49,10,0,7,N,31.2,N,Email
+CUST-0152,Kavya Singh,31,Female,Ahmedabad,Retail,179,Investment;Personal Loan,2,2617.68,94993.52,37,5,0,6,N,0.0,N,App
+CUST-0153,Zoya Nair,68,Male,Delhi,Retail,37,Savings,1,3729.64,69712.45,9,14,0,5,N,0.0,Y,Call
+CUST-0154,Saanvi Iyer,22,Female,Bengaluru,Retail,61,Credit Card;Personal Loan;Fixed Deposit,3,13337.04,8464.62,27,24,0,6,N,97.3,Y,App
+CUST-0155,Arjun Khan,62,Male,Chennai,Retail,47,Fixed Deposit;Personal Loan,2,12833.47,24057.77,55,38,5,7,N,0.0,Y,Email
+CUST-0156,Zoya Singh,24,Male,Hyderabad,Retail,17,Credit Card,1,10196.79,124225.36,26,4,0,8,N,13.5,Y,App
+CUST-0157,Anaya Verma,56,Male,Bengaluru,SME,17,Fixed Deposit;Personal Loan,2,11187.86,1353887.05,17,5,0,9,N,0.0,Y,Call
+CUST-0158,Zoya Desai,51,Female,Delhi,SME,77,Personal Loan;Insurance,2,22490.98,204500.25,40,4,5,9,Y,0.0,N,App
+CUST-0159,Meera Mehta,68,Male,Hyderabad,SME,70,Insurance,1,65050.56,161456.47,1,19,2,6,N,0.0,Y,App
+CUST-0160,Vihaan Verma,56,Female,Bengaluru,Retail,118,Investment;Savings,2,30445.91,43061.6,76,35,1,6,N,0.0,Y,App
+CUST-0161,Neha Kapoor,62,Male,Pune,Retail,156,Fixed Deposit;Investment,2,9413.49,67335.16,9,10,1,4,N,0.0,Y,App
+CUST-0162,Anaya Nair,47,Female,Pune,Retail,65,Savings,1,13764.47,56834.11,42,32,1,6,N,0.0,Y,SMS
+CUST-0163,Zoya Desai,37,Female,Bengaluru,Retail,173,Investment;Personal Loan,2,2577.83,70027.6,73,21,2,8,N,0.0,N,SMS
+CUST-0164,Neha Khan,37,Female,Jaipur,Retail,170,Investment,1,14053.72,19160.74,13,14,0,8,Y,0.0,N,SMS
+CUST-0165,Arjun Das,40,Male,Chennai,Retail,79,Fixed Deposit;Investment,2,12309.31,66259.21,9,2,4,7,N,0.0,Y,App
+CUST-0166,Ishaan Rao,52,Male,Chennai,Retail,28,Investment;Credit Card;Fixed Deposit,3,3984.54,37590.1,10,49,0,7,N,41.5,Y,App
+CUST-0167,Ishaan Nair,36,Female,Hyderabad,Retail,62,Fixed Deposit;Credit Card;Investment,3,15105.42,29562.77,31,35,2,10,N,58.0,N,SMS
+CUST-0168,Tara Nair,46,Female,Hyderabad,Retail,125,Savings;Insurance,2,8089.57,44946.22,38,5,2,7,Y,0.0,Y,App
+CUST-0169,Neha Das,45,Male,Delhi,Retail,106,Personal Loan;Investment,2,7776.88,115006.28,5,14,3,5,N,0.0,Y,Email
+CUST-0170,Tara Joshi,39,Female,Ahmedabad,SME,90,Insurance,1,38316.69,566808.93,26,14,0,7,N,0.0,Y,App
+CUST-0171,Neha Shah,49,Female,Jaipur,Premium,19,Investment;Personal Loan;Credit Card;Fixed Deposit,4,50539.27,92408.9,26,12,2,9,N,78.5,Y,App
+CUST-0172,Rohan Pillai,24,Female,Delhi,Premium,150,Savings;Credit Card,2,21487.16,222750.61,56,65,0,4,Y,18.1,Y,Call
+CUST-0173,Arjun Rao,59,Male,Pune,Retail,80,Personal Loan;Savings;Fixed Deposit,3,9775.19,64626.86,26,5,0,8,Y,0.0,Y,App
+CUST-0174,Vihaan Verma,50,Female,Mumbai,Premium,8,Personal Loan;Insurance;Savings;Investment,4,21749.79,438216.62,26,8,2,8,Y,0.0,Y,App
+CUST-0175,Kavya Reddy,47,Male,Chennai,Retail,178,Insurance;Fixed Deposit,2,1487.17,25691.75,56,24,1,1,N,0.0,Y,App
+CUST-0176,Aanya Patel,30,Male,Delhi,Premium,112,Investment,1,106163.56,152884.34,49,7,0,7,N,0.0,N,Email
+CUST-0177,Meera Patel,61,Male,Ahmedabad,Premium,83,Investment,1,20487.63,2024881.94,13,23,0,6,N,0.0,Y,App
+CUST-0178,Tara Shah,26,Female,Hyderabad,Retail,152,Credit Card;Savings,2,16803.77,68670.14,45,9,0,10,N,81.3,N,App
+CUST-0179,Arjun Joshi,24,Female,Pune,Retail,145,Credit Card,1,4701.68,109299.99,53,3,2,6,N,60.5,Y,App
+CUST-0180,Meera Shah,66,Female,Bengaluru,Retail,150,Investment;Savings;Insurance,3,5985.87,62050.75,8,4,0,3,N,0.0,Y,App
+CUST-0181,Ishaan Gupta,30,Female,Chennai,Premium,27,Fixed Deposit;Insurance;Investment,3,23097.1,1001380.17,19,13,1,7,N,0.0,Y,App
+CUST-0182,Arjun Kapoor,29,Female,Pune,Retail,95,Credit Card;Savings;Investment,3,4873.08,21864.02,48,25,4,7,N,64.6,Y,App
+CUST-0183,Neha Khan,31,Male,Chennai,Retail,63,Investment;Personal Loan,2,11153.7,55218.7,53,35,0,4,N,0.0,Y,App
+CUST-0184,Diya Iyer,46,Female,Mumbai,SME,3,Personal Loan;Fixed Deposit;Credit Card;Insurance,4,55272.03,802104.63,29,7,0,7,N,93.6,Y,App
+CUST-0185,Aanya Pillai,55,Female,Chennai,Retail,153,Fixed Deposit,1,17758.29,83895.83,25,29,4,9,Y,0.0,Y,App
+CUST-0186,Rohan Desai,29,Female,Jaipur,Retail,34,Savings,1,9000.59,87943.75,39,9,2,4,Y,0.0,N,App
+CUST-0187,Ishaan Patel,27,Male,Ahmedabad,Premium,173,Investment,1,73430.42,504482.79,18,8,2,3,N,0.0,Y,Call
+CUST-0188,Tara Gupta,53,Male,Delhi,Retail,113,Credit Card,1,7063.94,192992.92,34,37,1,7,N,92.2,Y,Email
+CUST-0189,Kavya Nair,49,Male,Jaipur,Retail,41,Insurance;Personal Loan,2,10769.57,43098.1,12,27,5,7,N,0.0,Y,Email
+CUST-0190,Neha Reddy,22,Male,Ahmedabad,Premium,100,Credit Card,1,38242.84,655356.66,51,49,0,8,Y,22.2,Y,Email
+CUST-0191,Vihaan Das,28,Male,Bengaluru,Retail,53,Personal Loan,1,15817.85,73832.47,8,7,0,8,N,0.0,Y,Email
+CUST-0192,Anaya Khan,53,Female,Hyderabad,Premium,176,Investment;Credit Card;Savings;Fixed Deposit,4,61782.81,189452.51,30,31,1,9,N,44.2,Y,App
+CUST-0193,Ishaan Desai,41,Male,Ahmedabad,Premium,146,Personal Loan,1,18217.63,423159.1,29,48,1,7,N,0.0,Y,App
+CUST-0194,Saanvi Verma,42,Non-binary,Bengaluru,Retail,37,Investment;Insurance;Savings;Fixed Deposit,4,4933.51,11256.27,16,20,3,8,N,0.0,Y,App
+CUST-0195,Kabir Iyer,44,Female,Bengaluru,Retail,32,Credit Card;Savings,2,19005.13,188816.65,17,14,0,7,Y,65.2,N,App
+CUST-0196,Saanvi Gupta,30,Male,Bengaluru,Retail,18,Credit Card,1,12708.07,27415.05,60,19,3,7,N,22.1,Y,App
+CUST-0197,Kavya Pillai,21,Female,Hyderabad,Retail,48,Personal Loan,1,14277.65,226677.88,32,21,0,7,N,0.0,N,App
+CUST-0198,Diya Rao,47,Female,Delhi,Premium,142,Insurance;Savings,2,10273.18,684463.9,11,12,5,8,N,0.0,N,Call
+CUST-0199,Saanvi Mehta,41,Male,Bengaluru,Retail,180,Fixed Deposit;Personal Loan;Insurance;Credit Card,4,5448.57,24303.82,27,38,1,6,N,75.0,N,Email
+CUST-0200,Diya Singh,59,Female,Jaipur,Retail,53,Savings;Investment,2,6209.64,98311.23,28,69,0,6,Y,0.0,N,App
+CUST-0201,Anaya Gupta,70,Male,Delhi,Premium,84,Fixed Deposit;Personal Loan;Credit Card,3,36609.9,271965.8,21,77,3,9,Y,49.7,Y,App
+CUST-0202,Arjun Khan,42,Male,Ahmedabad,Retail,100,Fixed Deposit;Credit Card;Savings,3,4224.84,30783.01,9,21,5,7,N,78.9,Y,App
+CUST-0203,Kabir Pillai,39,Female,Delhi,Retail,76,Savings;Insurance,2,15987.51,121648.21,9,6,0,4,N,0.0,Y,App
+CUST-0204,Neha Verma,52,Female,Hyderabad,Retail,157,Insurance;Credit Card;Savings,3,7036.6,31530.25,18,34,3,5,N,33.3,N,App
+CUST-0205,Ishaan Nair,48,Female,Chennai,Retail,33,Investment,1,7443.31,73951.95,42,44,1,8,N,0.0,Y,App
+CUST-0206,Aditya Singh,25,Female,Chennai,Premium,130,Personal Loan;Savings,2,39962.85,501311.43,54,17,0,7,Y,0.0,Y,App
+CUST-0207,Meera Khan,68,Male,Hyderabad,SME,154,Fixed Deposit;Insurance,2,103263.83,1468945.4,120,13,1,8,Y,0.0,N,Email
+CUST-0208,Neha Pillai,59,Female,Pune,Retail,21,Personal Loan;Insurance,2,4611.73,61126.19,10,11,3,8,N,0.0,Y,SMS
+CUST-0209,Rohan Mehta,57,Male,Jaipur,SME,180,Fixed Deposit,1,56223.67,322296.42,30,18,0,9,N,0.0,Y,App
+CUST-0210,Kabir Mehta,26,Male,Pune,SME,34,Savings,1,47506.25,1277480.85,20,11,0,6,N,0.0,Y,Email
+CUST-0211,Aanya Nair,22,Female,Delhi,Retail,74,Investment,1,8313.46,35184.86,10,12,0,6,N,0.0,Y,App
+CUST-0212,Saanvi Shah,49,Female,Ahmedabad,Retail,57,Credit Card;Fixed Deposit;Savings,3,4521.08,138673.28,40,28,5,8,N,85.0,N,App
+CUST-0213,Arjun Gupta,51,Male,Hyderabad,Retail,179,Investment,1,13798.34,135807.39,120,23,1,8,N,0.0,Y,App
+CUST-0214,Meera Patel,54,Female,Ahmedabad,Retail,103,Insurance,1,4098.63,38496.49,42,8,0,4,N,0.0,Y,App
+CUST-0215,Aanya Iyer,63,Female,Chennai,Premium,172,Insurance,1,51913.19,1087188.63,27,95,1,8,Y,0.0,Y,SMS
+CUST-0216,Ishaan Pillai,53,Female,Bengaluru,SME,123,Personal Loan,1,18780.36,457788.92,50,13,5,4,N,0.0,N,App
+CUST-0217,Anaya Khan,24,Female,Pune,Retail,128,Insurance;Credit Card,2,5340.25,165256.18,24,18,2,6,N,35.0,Y,Call
+CUST-0218,Aarav Reddy,54,Male,Mumbai,Retail,57,Savings,1,23436.38,21840.34,9,6,1,8,N,0.0,Y,Email
+CUST-0219,Anaya Desai,49,Male,Ahmedabad,SME,20,Personal Loan;Credit Card;Insurance,3,85428.59,362907.34,36,11,1,4,N,76.8,Y,Email
+CUST-0220,Diya Desai,35,Female,Delhi,Retail,149,Investment;Insurance;Credit Card;Savings,4,5958.61,153059.97,4,10,0,7,N,84.5,Y,App
+CUST-0221,Kavya Joshi,65,Female,Mumbai,Premium,82,Credit Card,1,85962.11,178855.75,25,26,3,3,N,33.8,Y,App
+CUST-0222,Aditya Mehta,55,Male,Delhi,Retail,62,Fixed Deposit,1,12333.2,41391.41,44,5,2,9,N,0.0,Y,App
+CUST-0223,Ishaan Singh,51,Female,Bengaluru,Retail,174,Insurance,1,9688.66,49983.05,35,3,1,6,N,0.0,Y,Email
+CUST-0224,Vihaan Iyer,48,Male,Jaipur,Retail,132,Investment;Savings;Personal Loan,3,14226.82,42326.89,2,25,2,9,N,0.0,Y,App
+CUST-0225,Rohan Khan,27,Male,Chennai,Retail,157,Investment,1,17535.92,43827.34,19,34,2,8,Y,0.0,Y,Email
+CUST-0226,Vihaan Gupta,48,Female,Mumbai,Retail,169,Insurance;Savings;Credit Card,3,51579.15,38205.8,23,11,2,9,N,17.9,Y,App
+CUST-0227,Saanvi Das,46,Male,Hyderabad,Retail,71,Investment;Insurance;Savings,3,5057.24,46292.63,11,53,1,6,N,0.0,Y,App
+CUST-0228,Ishaan Singh,56,Male,Ahmedabad,Premium,118,Insurance;Fixed Deposit,2,10456.48,353246.14,18,39,0,10,Y,0.0,Y,SMS
+CUST-0229,Saanvi Das,45,Male,Ahmedabad,Premium,96,Personal Loan;Fixed Deposit;Credit Card,3,44196.3,137408.07,48,40,1,4,N,38.8,Y,Email
+CUST-0230,Ishaan Kapoor,54,Female,Hyderabad,SME,20,Savings,1,203062.82,591121.01,19,17,0,4,N,0.0,Y,Call
+CUST-0231,Neha Shah,59,Male,Delhi,Premium,24,Investment,1,22421.22,363031.06,14,43,0,6,N,0.0,Y,App
+CUST-0232,Kavya Desai,26,Male,Ahmedabad,Retail,80,Fixed Deposit;Credit Card,2,3380.03,81187.71,25,16,2,4,N,17.2,Y,Email
+CUST-0233,Saanvi Joshi,29,Female,Jaipur,Retail,30,Credit Card,1,10608.49,60919.05,53,32,1,6,Y,41.4,N,App
+CUST-0234,Arjun Joshi,66,Male,Bengaluru,Retail,16,Insurance;Credit Card,2,5574.75,147616.97,45,50,0,8,N,87.4,Y,Call
+CUST-0235,Anaya Khan,45,Female,Mumbai,Premium,61,Savings;Personal Loan,2,59644.2,418885.62,13,10,0,5,Y,0.0,N,Email
+CUST-0236,Ishaan Nair,44,Female,Delhi,SME,170,Savings;Personal Loan;Credit Card,3,76503.65,431226.34,68,5,5,8,N,68.3,Y,Call
+CUST-0237,Meera Mehta,51,Male,Ahmedabad,Retail,177,Credit Card,1,12696.86,13633.6,14,51,0,5,Y,65.4,N,Email
+CUST-0238,Vihaan Iyer,67,Male,Ahmedabad,Retail,59,Fixed Deposit;Investment,2,10302.51,60050.85,46,33,1,7,N,0.0,Y,App
+CUST-0239,Diya Singh,60,Male,Hyderabad,Retail,123,Investment,1,7689.05,25864.14,41,4,0,8,N,0.0,Y,Email
+CUST-0240,Neha Joshi,23,Female,Bengaluru,Retail,155,Savings;Investment;Credit Card,3,2434.84,70043.45,36,9,3,8,N,90.7,Y,SMS
+CUST-0241,Kavya Singh,41,Female,Mumbai,SME,42,Insurance;Credit Card,2,40997.46,508880.59,22,61,2,6,N,24.5,Y,App
+CUST-0242,Vihaan Gupta,58,Female,Bengaluru,SME,109,Savings;Credit Card;Insurance,3,37418.24,416587.01,11,12,0,6,Y,32.5,Y,Email
+CUST-0243,Tara Joshi,55,Male,Delhi,SME,167,Credit Card;Personal Loan,2,44580.28,439968.59,89,45,2,4,N,14.2,Y,SMS
+CUST-0244,Aarav Gupta,22,Female,Mumbai,Premium,148,Credit Card;Personal Loan;Insurance;Investment,4,30831.99,123509.08,30,25,2,9,Y,70.6,Y,App
+CUST-0245,Vihaan Patel,30,Female,Pune,Retail,160,Personal Loan,1,7571.39,41350.68,42,47,2,2,N,0.0,Y,App
+CUST-0246,Rohan Nair,53,Male,Ahmedabad,Retail,106,Savings,1,23905.65,210201.4,8,13,0,7,N,0.0,N,App
+CUST-0247,Kabir Singh,53,Male,Pune,Retail,164,Credit Card;Personal Loan,2,4398.43,42860.59,35,1,1,6,N,84.9,Y,App
+CUST-0248,Aanya Desai,29,Male,Chennai,Retail,137,Personal Loan;Insurance,2,4982.36,28755.63,4,40,0,4,N,0.0,Y,Call
+CUST-0249,Aarav Khan,21,Male,Jaipur,Retail,60,Investment,1,10909.98,246492.4,46,25,0,6,N,0.0,Y,Email
+CUST-0250,Kabir Pillai,62,Non-binary,Bengaluru,Retail,15,Savings;Personal Loan;Fixed Deposit,3,12639.25,16002.66,47,32,0,9,N,0.0,Y,App
+CUST-0251,Arjun Joshi,40,Female,Ahmedabad,Retail,73,Insurance,1,8908.23,30462.38,26,0,5,8,Y,0.0,Y,App
+CUST-0252,Arjun Rao,43,Male,Pune,Premium,95,Credit Card,1,36955.76,272652.88,31,13,2,8,N,31.5,N,Email
+CUST-0253,Saanvi Reddy,42,Male,Hyderabad,Retail,178,Credit Card;Fixed Deposit;Savings,3,10783.69,34263.86,57,13,0,8,N,54.8,Y,Email
+CUST-0254,Rohan Pillai,43,Male,Ahmedabad,Premium,7,Investment;Credit Card,2,50897.93,140115.76,28,17,0,6,Y,67.4,Y,SMS
+CUST-0255,Ishaan Rao,33,Male,Pune,Retail,150,Credit Card,1,4571.19,30241.71,41,23,1,8,Y,62.6,Y,App
+CUST-0256,Anaya Shah,52,Male,Mumbai,Retail,121,Insurance,1,4861.65,109671.28,41,66,3,6,N,0.0,N,SMS
+CUST-0257,Anaya Das,47,Female,Mumbai,Retail,32,Fixed Deposit,1,7768.73,545596.54,50,7,0,9,Y,0.0,Y,Call
+CUST-0258,Kavya Das,50,Male,Pune,Retail,116,Investment;Credit Card;Personal Loan,3,5373.55,92151.2,28,12,5,8,N,15.0,N,Email
+CUST-0259,Neha Pillai,35,Male,Delhi,Retail,138,Personal Loan,1,5373.57,67131.05,19,14,3,8,N,0.0,Y,App
+CUST-0260,Arjun Desai,65,Female,Pune,Retail,5,Personal Loan,1,8788.22,32966.83,27,99,1,9,N,0.0,N,App
+CUST-0261,Meera Patel,49,Male,Ahmedabad,SME,14,Insurance;Personal Loan;Fixed Deposit,3,75143.24,538708.44,61,0,1,7,N,0.0,Y,SMS
+CUST-0262,Anaya Rao,56,Male,Chennai,Retail,168,Fixed Deposit;Investment;Personal Loan,3,6839.89,35761.36,3,13,0,8,N,0.0,Y,SMS
+CUST-0263,Saanvi Reddy,36,Male,Mumbai,Retail,35,Personal Loan,1,4420.08,67489.73,12,20,5,4,Y,0.0,N,Email
+CUST-0264,Ishaan Gupta,36,Male,Bengaluru,Premium,122,Insurance;Savings;Credit Card,3,29728.02,192095.96,28,16,0,10,Y,30.3,Y,App
+CUST-0265,Anaya Desai,60,Female,Delhi,Premium,38,Credit Card;Personal Loan;Savings,3,40601.3,408040.13,7,7,0,5,Y,40.1,N,SMS
+CUST-0266,Kabir Pillai,48,Female,Chennai,Retail,104,Investment;Fixed Deposit,2,10325.12,42312.32,16,10,4,9,N,0.0,N,App
+CUST-0267,Aanya Desai,31,Female,Delhi,Premium,29,Insurance,1,18554.3,1004422.96,18,33,3,7,N,0.0,N,App
+CUST-0268,Rohan Rao,40,Female,Chennai,Retail,136,Fixed Deposit,1,15960.84,201671.14,31,23,0,7,N,0.0,Y,SMS
+CUST-0269,Meera Verma,26,Female,Chennai,SME,25,Credit Card;Personal Loan;Savings,3,24370.03,135803.72,16,16,0,5,Y,23.8,Y,App
+CUST-0270,Aanya Nair,56,Female,Hyderabad,Retail,150,Fixed Deposit,1,6535.32,43354.16,26,10,1,6,Y,0.0,Y,App
+CUST-0271,Tara Das,63,Female,Chennai,SME,119,Fixed Deposit,1,163419.07,223400.2,30,21,1,8,Y,0.0,N,App
+CUST-0272,Rohan Khan,35,Female,Delhi,Retail,75,Credit Card;Insurance;Investment;Fixed Deposit,4,5504.35,12954.83,9,33,4,6,N,32.5,Y,App
+CUST-0273,Meera Iyer,55,Female,Pune,Retail,52,Investment;Insurance;Fixed Deposit,3,4770.11,80404.6,29,12,3,9,N,0.0,Y,SMS
+CUST-0274,Aanya Desai,56,Female,Mumbai,Premium,34,Personal Loan;Credit Card,2,82114.91,144451.18,52,17,0,3,Y,25.8,N,App
+CUST-0275,Saanvi Nair,64,Female,Pune,Retail,46,Savings,1,28615.91,29447.54,7,20,0,10,Y,0.0,N,Call
+CUST-0276,Aarav Rao,57,Female,Mumbai,Retail,90,Investment,1,7401.05,372746.74,20,34,3,6,N,0.0,Y,App
+CUST-0277,Arjun Verma,66,Male,Mumbai,SME,113,Fixed Deposit,1,37445.61,244806.56,61,12,2,7,Y,0.0,Y,Email
+CUST-0278,Kabir Desai,46,Male,Ahmedabad,Retail,36,Credit Card,1,17893.77,24092.0,19,38,1,9,N,88.3,Y,Email
+CUST-0279,Meera Patel,34,Male,Delhi,Retail,60,Personal Loan;Insurance,2,13571.44,7543.09,66,52,2,8,N,0.0,Y,App
+CUST-0280,Tara Gupta,69,Male,Chennai,Retail,180,Personal Loan;Credit Card,2,4555.27,11080.1,19,6,1,9,Y,54.7,Y,Email
+CUST-0281,Kabir Kapoor,38,Female,Ahmedabad,Retail,92,Fixed Deposit;Investment,2,6061.86,174183.18,44,17,1,6,N,0.0,Y,Email
+CUST-0282,Zoya Shah,55,Male,Delhi,Premium,129,Investment;Personal Loan;Insurance;Savings,4,101637.69,157681.55,60,12,1,7,N,0.0,Y,App
+CUST-0283,Kabir Nair,25,Non-binary,Bengaluru,Retail,162,Personal Loan;Fixed Deposit;Credit Card;Investment,4,13155.51,47427.34,8,10,0,8,N,18.8,Y,App
+CUST-0284,Vihaan Shah,60,Male,Ahmedabad,Retail,105,Fixed Deposit,1,10313.53,50974.14,67,53,0,8,N,0.0,N,App
+CUST-0285,Vihaan Nair,66,Male,Delhi,Retail,17,Investment,1,10635.82,22234.58,114,17,1,6,N,0.0,N,App
+CUST-0286,Aarav Reddy,59,Male,Delhi,SME,170,Credit Card;Fixed Deposit;Savings,3,66449.3,695072.96,17,0,2,5,Y,55.3,N,Email
+CUST-0287,Saanvi Nair,59,Female,Hyderabad,Retail,144,Fixed Deposit,1,6409.03,73250.27,44,18,2,10,Y,0.0,Y,Email
+CUST-0288,Vihaan Patel,69,Female,Chennai,Premium,145,Fixed Deposit;Investment,2,33688.77,675064.32,35,12,1,6,Y,0.0,Y,SMS
+CUST-0289,Aarav Joshi,42,Female,Ahmedabad,Premium,20,Savings;Insurance;Personal Loan,3,32443.33,1571215.68,31,5,0,4,N,0.0,N,Call
+CUST-0290,Ishaan Khan,35,Non-binary,Pune,Retail,2,Fixed Deposit;Insurance;Personal Loan,3,9364.0,52671.47,8,16,0,9,N,0.0,N,SMS
+CUST-0291,Ishaan Rao,68,Male,Ahmedabad,Retail,165,Investment,1,17576.87,203339.98,11,9,2,5,N,0.0,N,Email
+CUST-0292,Arjun Verma,21,Female,Hyderabad,Retail,7,Investment;Fixed Deposit;Savings,3,6258.23,45623.51,24,10,0,10,N,0.0,Y,Email
+CUST-0293,Kabir Kapoor,46,Male,Mumbai,SME,137,Credit Card,1,43633.35,200704.14,62,26,0,9,Y,89.1,Y,Email
+CUST-0294,Aarav Shah,56,Male,Jaipur,Retail,5,Investment;Savings;Personal Loan;Fixed Deposit,4,14460.93,36624.68,20,30,0,5,N,0.0,N,App
+CUST-0295,Arjun Das,61,Female,Bengaluru,SME,143,Savings;Credit Card;Personal Loan,3,54214.43,710489.06,23,45,1,8,N,65.0,Y,App
+CUST-0296,Rohan Joshi,35,Male,Jaipur,Retail,17,Savings;Personal Loan;Credit Card;Investment,4,3816.93,89148.95,38,52,2,8,Y,69.2,Y,App
+CUST-0297,Kabir Khan,37,Male,Pune,Premium,19,Insurance;Credit Card;Savings,3,62864.68,853783.68,36,12,4,5,Y,13.8,Y,Email
+CUST-0298,Tara Kapoor,39,Male,Delhi,Premium,23,Investment;Insurance,2,46188.68,175261.59,58,57,0,8,N,0.0,Y,Email
+CUST-0299,Zoya Pillai,41,Female,Delhi,Premium,25,Credit Card;Savings;Personal Loan;Insurance,4,16484.06,134448.53,69,4,1,7,Y,81.7,Y,App
+CUST-0300,Aditya Singh,62,Male,Jaipur,Retail,82,Insurance,1,6693.14,68992.36,7,35,2,8,Y,0.0,Y,App
+CUST-0301,Diya Patel,41,Male,Ahmedabad,SME,178,Savings,1,100003.84,495400.94,23,7,0,8,N,0.0,Y,App
+CUST-0302,Rohan Nair,45,Female,Ahmedabad,Retail,160,Fixed Deposit;Insurance;Personal Loan,3,13804.52,22118.34,88,13,0,10,Y,0.0,Y,Call
+CUST-0303,Aanya Shah,45,Female,Hyderabad,Retail,177,Credit Card,1,3369.13,42708.89,14,49,0,6,N,15.3,N,Email
+CUST-0304,Zoya Pillai,28,Male,Bengaluru,Retail,173,Insurance;Investment,2,12066.91,202276.74,23,72,0,7,N,0.0,N,Email
+CUST-0305,Zoya Joshi,43,Female,Chennai,Retail,77,Investment;Personal Loan,2,6241.13,107449.02,14,3,0,9,Y,0.0,Y,Email
+CUST-0306,Neha Khan,35,Female,Delhi,SME,86,Investment;Credit Card,2,36602.46,774153.0,15,75,0,9,N,20.1,N,App
+CUST-0307,Saanvi Rao,58,Female,Pune,Retail,153,Insurance,1,24701.62,269474.61,37,10,1,5,N,0.0,Y,SMS
+CUST-0308,Kabir Khan,62,Male,Jaipur,Retail,167,Investment;Fixed Deposit;Insurance;Personal Loan,4,6654.08,22794.12,27,61,1,3,N,0.0,Y,App
+CUST-0309,Aarav Mehta,34,Female,Hyderabad,Retail,70,Savings,1,9698.97,31578.22,10,7,1,6,Y,0.0,Y,App
+CUST-0310,Anaya Nair,26,Female,Bengaluru,SME,176,Credit Card;Insurance;Investment;Personal Loan,4,34787.28,206453.72,21,21,0,7,N,53.4,Y,App
+CUST-0311,Aditya Das,51,Female,Bengaluru,Retail,62,Fixed Deposit;Personal Loan;Investment;Insurance,4,31527.43,275653.46,27,26,0,8,Y,0.0,Y,App
+CUST-0312,Tara Iyer,27,Male,Bengaluru,SME,65,Fixed Deposit,1,163286.72,1471358.78,7,1,0,5,N,0.0,N,App
+CUST-0313,Arjun Iyer,26,Male,Delhi,Premium,153,Insurance;Personal Loan,2,34579.84,669233.5,45,44,5,9,Y,0.0,Y,App
+CUST-0314,Kabir Nair,44,Female,Ahmedabad,Retail,67,Fixed Deposit,1,10669.41,50158.41,37,53,0,2,N,0.0,Y,SMS
+CUST-0315,Ishaan Khan,40,Non-binary,Bengaluru,Premium,155,Insurance;Credit Card,2,79366.21,537121.53,10,2,4,10,N,17.1,Y,SMS
+CUST-0316,Neha Reddy,37,Male,Pune,Retail,137,Fixed Deposit,1,5633.8,61016.9,47,11,2,9,Y,0.0,Y,Email
+CUST-0317,Zoya Iyer,54,Male,Pune,Retail,34,Fixed Deposit;Insurance;Investment,3,5476.4,14019.34,3,32,1,6,Y,0.0,Y,App
+CUST-0318,Meera Iyer,36,Female,Mumbai,Retail,115,Savings;Investment;Fixed Deposit,3,5528.13,122174.23,22,17,0,7,Y,0.0,Y,SMS
+CUST-0319,Vihaan Pillai,62,Male,Mumbai,Retail,101,Insurance;Personal Loan;Investment,3,9041.21,52361.96,73,0,0,10,N,0.0,Y,Call
+CUST-0320,Diya Pillai,31,Female,Bengaluru,Premium,113,Fixed Deposit;Credit Card,2,20599.51,320218.04,8,30,1,6,Y,81.7,N,Email
+CUST-0321,Neha Nair,56,Female,Bengaluru,Premium,123,Insurance;Savings,2,27776.22,360292.17,27,28,0,4,N,0.0,N,SMS
+CUST-0322,Tara Verma,43,Male,Delhi,Retail,109,Investment,1,10981.83,74519.66,9,45,0,8,N,0.0,N,Email
+CUST-0323,Ishaan Reddy,59,Male,Jaipur,Retail,45,Investment;Savings;Insurance,3,16444.83,56064.84,4,34,2,5,Y,0.0,Y,App
+CUST-0324,Tara Nair,52,Male,Chennai,Premium,167,Fixed Deposit;Personal Loan;Investment,3,21406.05,518095.1,61,2,3,5,N,0.0,N,App
+CUST-0325,Zoya Pillai,36,Male,Chennai,Retail,25,Fixed Deposit;Credit Card;Insurance,3,4391.91,51813.34,19,37,2,9,N,77.7,Y,SMS
+CUST-0326,Kavya Verma,35,Female,Delhi,Retail,85,Insurance;Credit Card;Investment;Personal Loan,4,11252.01,36599.42,5,1,1,7,Y,82.6,Y,Email
+CUST-0327,Anaya Singh,49,Female,Ahmedabad,Retail,88,Fixed Deposit;Insurance,2,6913.75,136755.41,75,60,2,8,N,0.0,Y,SMS
+CUST-0328,Ishaan Mehta,52,Non-binary,Jaipur,Retail,156,Fixed Deposit,1,3861.27,29175.03,40,38,0,9,N,0.0,N,App
+CUST-0329,Kavya Gupta,69,Male,Pune,Retail,138,Insurance,1,4171.81,106201.19,25,49,3,8,N,0.0,Y,App
+CUST-0330,Neha Khan,32,Male,Ahmedabad,SME,170,Credit Card;Savings,2,30089.01,616821.51,47,31,3,9,N,11.3,Y,Email
+CUST-0331,Diya Desai,46,Female,Hyderabad,Premium,9,Investment,1,37214.99,351888.05,14,14,1,6,Y,0.0,N,App
+CUST-0332,Aanya Iyer,70,Female,Delhi,SME,169,Insurance;Savings;Personal Loan,3,128515.44,522484.62,10,39,2,5,N,0.0,Y,App
+CUST-0333,Aanya Gupta,65,Male,Jaipur,Retail,17,Savings,1,11244.28,10098.53,46,14,5,4,Y,0.0,N,SMS
+CUST-0334,Kabir Mehta,41,Male,Ahmedabad,Retail,90,Fixed Deposit;Personal Loan,2,17921.06,74692.81,22,18,5,6,N,0.0,N,App
+CUST-0335,Diya Iyer,33,Male,Ahmedabad,Retail,98,Savings;Insurance,2,8893.41,10013.56,28,38,0,7,N,0.0,Y,App
+CUST-0336,Arjun Kapoor,24,Male,Mumbai,Retail,92,Savings,1,2837.11,97665.04,45,7,0,8,N,0.0,Y,App
+CUST-0337,Diya Mehta,25,Male,Jaipur,Retail,76,Personal Loan,1,8348.46,199795.74,1,28,1,7,Y,0.0,Y,App
+CUST-0338,Saanvi Reddy,26,Male,Delhi,Premium,69,Credit Card,1,41165.33,930989.76,33,20,1,6,N,21.0,N,App
+CUST-0339,Kavya Joshi,48,Male,Bengaluru,Premium,13,Personal Loan;Fixed Deposit;Savings,3,122325.1,709203.76,66,29,0,8,Y,0.0,Y,SMS
+CUST-0340,Arjun Desai,63,Female,Delhi,Premium,96,Investment;Fixed Deposit,2,17902.81,191513.92,10,18,0,8,Y,0.0,Y,Email
+CUST-0341,Kavya Kapoor,49,Male,Ahmedabad,SME,127,Fixed Deposit;Investment;Savings;Credit Card,4,45652.43,167029.9,25,29,0,6,N,30.8,Y,Email
+CUST-0342,Meera Verma,28,Male,Bengaluru,SME,174,Investment;Savings;Credit Card,3,22729.96,447721.86,81,4,1,8,Y,20.4,Y,App
+CUST-0343,Anaya Mehta,31,Female,Hyderabad,Retail,171,Personal Loan;Insurance;Savings,3,5288.32,51950.45,41,20,0,8,N,0.0,Y,App
+CUST-0344,Meera Shah,50,Male,Pune,Retail,104,Personal Loan,1,18053.81,123538.47,20,68,1,3,Y,0.0,Y,Email
+CUST-0345,Arjun Reddy,54,Female,Jaipur,Retail,8,Investment,1,8464.02,30117.4,21,8,1,2,N,0.0,Y,SMS
+CUST-0346,Diya Singh,28,Male,Chennai,Premium,52,Investment;Fixed Deposit,2,32524.53,384441.72,48,4,4,9,N,0.0,Y,App
+CUST-0347,Diya Pillai,65,Male,Delhi,Retail,137,Savings,1,12173.48,47954.51,3,46,0,7,Y,0.0,Y,App
+CUST-0348,Anaya Mehta,27,Female,Pune,Retail,126,Savings,1,4661.93,48306.9,38,48,2,10,N,0.0,Y,App
+CUST-0349,Kavya Iyer,69,Male,Mumbai,Retail,98,Investment,1,12302.48,133508.95,6,41,2,5,Y,0.0,N,App
+CUST-0350,Kavya Nair,48,Male,Delhi,Premium,20,Investment,1,19511.4,874180.28,5,32,2,7,Y,0.0,Y,Call
+CUST-0351,Aditya Singh,52,Male,Bengaluru,Premium,13,Personal Loan;Fixed Deposit;Insurance,3,61385.09,124910.33,40,2,1,4,N,0.0,Y,Email
+CUST-0352,Kabir Das,56,Female,Jaipur,Retail,137,Savings;Personal Loan,2,1464.59,279612.82,11,6,0,2,N,0.0,Y,App
+CUST-0353,Aditya Gupta,65,Male,Delhi,Retail,24,Investment;Credit Card,2,13661.05,133181.01,15,25,2,6,N,71.4,Y,App
+CUST-0354,Aarav Kapoor,64,Female,Ahmedabad,Retail,143,Personal Loan,1,7026.99,34034.79,40,35,3,7,N,0.0,N,SMS
+CUST-0355,Aanya Pillai,46,Female,Jaipur,Retail,76,Savings,1,24692.05,422342.96,8,27,0,10,N,0.0,Y,App
+CUST-0356,Diya Khan,34,Male,Chennai,Retail,28,Credit Card;Investment;Savings,3,4652.54,28115.89,30,7,2,8,Y,94.1,Y,SMS
+CUST-0357,Aditya Iyer,33,Male,Mumbai,Retail,36,Insurance,1,9065.57,23177.58,32,18,0,4,N,0.0,N,Call
+CUST-0358,Zoya Singh,67,Female,Bengaluru,Retail,173,Personal Loan,1,5431.42,22602.7,22,26,1,6,N,0.0,Y,SMS
+CUST-0359,Aanya Kapoor,38,Female,Hyderabad,Retail,67,Investment;Insurance;Credit Card,3,6379.51,48985.11,32,34,2,8,N,95.2,Y,App
+CUST-0360,Aditya Das,53,Male,Mumbai,SME,41,Savings;Credit Card;Fixed Deposit,3,79859.58,1017054.86,56,22,1,7,N,97.1,N,Email
+CUST-0361,Aanya Shah,45,Female,Ahmedabad,Retail,44,Savings;Insurance;Fixed Deposit;Personal Loan,4,3573.11,24107.64,13,28,1,7,Y,0.0,Y,Call
+CUST-0362,Meera Desai,43,Female,Ahmedabad,Retail,155,Insurance;Credit Card;Fixed Deposit,3,4297.33,73509.87,23,67,0,10,N,55.0,N,App
+CUST-0363,Arjun Iyer,68,Female,Hyderabad,Retail,92,Personal Loan;Insurance;Credit Card,3,1982.08,72006.12,42,47,1,10,N,22.3,Y,Email
+CUST-0364,Rohan Das,44,Female,Bengaluru,Retail,89,Personal Loan;Credit Card,2,21346.71,26209.52,17,47,3,6,Y,73.7,Y,App
+CUST-0365,Anaya Patel,43,Female,Chennai,Premium,29,Savings,1,78217.51,106317.61,21,46,2,3,Y,0.0,Y,App
+CUST-0366,Aditya Singh,41,Female,Hyderabad,Retail,139,Credit Card,1,4803.12,120362.86,67,89,0,8,N,37.5,N,App
+CUST-0367,Saanvi Khan,50,Female,Mumbai,Retail,113,Investment;Savings,2,8745.49,24194.35,39,39,1,8,N,0.0,N,Email
+CUST-0368,Diya Shah,59,Female,Bengaluru,SME,116,Fixed Deposit;Insurance,2,26395.75,279595.54,11,70,1,10,N,0.0,Y,App
+CUST-0369,Aanya Desai,21,Male,Chennai,SME,71,Credit Card;Fixed Deposit;Personal Loan,3,42093.41,606972.7,4,35,3,7,N,91.4,Y,App
+CUST-0370,Meera Mehta,53,Male,Jaipur,Retail,124,Fixed Deposit;Savings,2,3966.45,20056.83,39,17,2,10,Y,0.0,Y,App
+CUST-0371,Kavya Verma,31,Male,Chennai,SME,94,Credit Card,1,73758.01,939453.69,12,30,2,1,N,34.7,Y,App
+CUST-0372,Meera Kapoor,42,Male,Chennai,Premium,88,Fixed Deposit;Investment;Insurance,3,23532.28,661582.66,20,5,0,10,Y,0.0,N,SMS
+CUST-0373,Aanya Khan,42,Male,Mumbai,SME,61,Fixed Deposit;Insurance;Investment,3,105559.29,3619464.92,31,20,0,7,Y,0.0,Y,Email
+CUST-0374,Kavya Patel,55,Female,Jaipur,Retail,31,Fixed Deposit;Investment;Credit Card;Savings,4,8569.95,99455.74,9,52,0,7,Y,48.0,N,App
+CUST-0375,Vihaan Iyer,64,Male,Ahmedabad,Retail,43,Investment;Personal Loan,2,5499.72,90494.73,77,14,4,5,N,0.0,N,Email
+CUST-0376,Rohan Rao,27,Male,Bengaluru,Premium,12,Investment;Savings,2,40306.04,555987.13,20,35,1,9,Y,0.0,Y,App
+CUST-0377,Kabir Khan,39,Female,Jaipur,Premium,23,Savings,1,20201.1,566927.37,18,2,0,6,N,0.0,Y,App
+CUST-0378,Vihaan Joshi,55,Male,Ahmedabad,Retail,6,Insurance;Fixed Deposit,2,12498.73,32307.83,15,1,4,6,N,0.0,N,App
+CUST-0379,Ishaan Shah,33,Female,Mumbai,Retail,53,Personal Loan,1,7327.89,268401.42,30,12,0,9,Y,0.0,Y,App
+CUST-0380,Aarav Pillai,52,Male,Hyderabad,Retail,148,Savings;Credit Card,2,2355.29,57617.58,2,20,3,4,N,14.3,Y,App
+CUST-0381,Kavya Nair,59,Female,Pune,Retail,124,Savings,1,2460.5,188625.72,114,22,2,5,N,0.0,Y,Email
+CUST-0382,Neha Patel,62,Female,Delhi,Retail,6,Personal Loan;Credit Card,2,4332.65,36611.1,48,6,2,4,N,79.6,Y,App
+CUST-0383,Diya Rao,24,Male,Pune,Retail,79,Credit Card;Savings;Insurance,3,8958.99,21289.54,10,82,0,6,Y,90.3,Y,SMS
+CUST-0384,Aarav Singh,44,Male,Jaipur,Retail,121,Investment,1,5227.13,60252.29,1,32,0,9,N,0.0,Y,App
+CUST-0385,Zoya Rao,58,Female,Delhi,Retail,169,Investment,1,18947.52,216035.79,28,15,1,8,N,0.0,Y,Call
+CUST-0386,Aanya Iyer,64,Male,Mumbai,Retail,4,Investment;Insurance;Fixed Deposit,3,5596.21,42806.63,7,11,4,6,N,0.0,Y,Call
+CUST-0387,Aanya Rao,50,Male,Bengaluru,Retail,105,Investment;Fixed Deposit;Credit Card;Savings,4,6179.55,135908.96,89,11,0,4,N,84.0,Y,Call
+CUST-0388,Tara Singh,24,Male,Hyderabad,Premium,44,Fixed Deposit;Personal Loan;Investment;Savings,4,22297.95,372100.55,48,20,2,6,Y,0.0,Y,Email
+CUST-0389,Kabir Singh,61,Female,Chennai,Premium,148,Insurance;Fixed Deposit,2,39472.42,432641.46,52,18,0,8,N,0.0,Y,Email
+CUST-0390,Vihaan Shah,29,Male,Hyderabad,SME,92,Insurance;Credit Card,2,62982.11,990076.17,20,72,0,9,N,95.7,Y,App
+CUST-0391,Neha Singh,24,Male,Hyderabad,Premium,133,Savings;Insurance;Credit Card;Fixed Deposit,4,8914.41,371564.64,13,37,1,5,Y,67.5,Y,App
+CUST-0392,Neha Desai,66,Male,Mumbai,SME,85,Fixed Deposit;Personal Loan;Insurance;Credit Card,4,35461.97,459766.99,15,7,0,7,N,15.3,N,App
+CUST-0393,Neha Das,66,Female,Jaipur,Retail,100,Investment;Credit Card;Savings,3,4736.46,370382.85,35,34,2,7,Y,25.4,Y,App
+CUST-0394,Anaya Rao,40,Female,Mumbai,SME,174,Credit Card;Savings;Fixed Deposit,3,73831.09,929330.14,13,15,1,10,N,47.8,Y,App
+CUST-0395,Kavya Khan,44,Female,Bengaluru,Retail,170,Savings;Investment,2,12651.64,59004.93,1,19,1,6,N,0.0,Y,SMS
+CUST-0396,Zoya Gupta,63,Female,Chennai,Retail,75,Fixed Deposit,1,20232.94,166068.39,79,32,0,9,N,0.0,Y,Email
+CUST-0397,Vihaan Gupta,50,Non-binary,Jaipur,Retail,6,Savings;Credit Card;Fixed Deposit,3,2692.06,29051.51,60,16,5,6,Y,83.0,Y,App
+CUST-0398,Aanya Singh,29,Male,Jaipur,Retail,86,Savings,1,6751.35,98345.83,13,4,0,6,N,0.0,Y,Email
+CUST-0399,Anaya Das,56,Female,Jaipur,Retail,47,Personal Loan;Investment,2,6447.81,154345.05,21,73,0,5,N,0.0,Y,App
+CUST-0400,Meera Pillai,50,Male,Pune,Retail,75,Fixed Deposit;Credit Card;Savings,3,6662.18,13638.07,23,50,0,10,N,10.8,Y,Call
+CUST-0401,Saanvi Kapoor,38,Female,Delhi,Retail,41,Fixed Deposit,1,5097.3,20327.59,17,0,4,2,N,0.0,Y,Call
+CUST-0402,Aanya Nair,28,Female,Bengaluru,Premium,124,Credit Card,1,71461.34,1430753.1,20,33,1,6,N,55.3,Y,App
+CUST-0403,Diya Khan,50,Male,Pune,Retail,68,Insurance,1,5596.51,29687.56,17,59,0,9,Y,0.0,Y,App
+CUST-0404,Anaya Iyer,43,Male,Mumbai,Premium,11,Savings;Credit Card;Personal Loan,3,22224.17,153974.69,77,52,0,8,Y,55.6,N,SMS
+CUST-0405,Saanvi Kapoor,64,Male,Mumbai,Premium,66,Savings,1,42758.86,1474949.72,47,48,4,4,Y,0.0,Y,App
+CUST-0406,Arjun Mehta,59,Female,Chennai,Retail,117,Insurance;Credit Card;Fixed Deposit,3,6562.47,93627.82,40,1,0,8,N,34.5,Y,SMS
+CUST-0407,Zoya Joshi,52,Male,Hyderabad,Premium,122,Personal Loan;Credit Card,2,19836.45,128435.13,31,46,3,6,N,91.8,Y,App
+CUST-0408,Kavya Das,39,Female,Bengaluru,Retail,83,Insurance;Fixed Deposit;Credit Card,3,14720.03,7283.87,14,8,2,4,N,66.2,Y,Email
+CUST-0409,Anaya Patel,31,Male,Bengaluru,Premium,71,Investment;Fixed Deposit,2,55468.38,284873.49,8,64,0,10,N,0.0,N,App
+CUST-0410,Ishaan Mehta,48,Male,Hyderabad,Premium,18,Investment;Fixed Deposit,2,21547.28,568968.75,43,31,3,7,N,0.0,N,Email
+CUST-0411,Diya Das,30,Male,Jaipur,Retail,180,Credit Card;Personal Loan,2,9326.95,73307.39,29,4,0,8,N,11.6,Y,App
+CUST-0412,Zoya Nair,39,Male,Mumbai,Retail,40,Personal Loan;Insurance,2,12344.84,31282.18,9,13,2,8,N,0.0,Y,App
+CUST-0413,Tara Gupta,27,Female,Mumbai,SME,78,Credit Card,1,36185.94,1019389.67,37,2,4,5,N,47.7,Y,App
+CUST-0414,Kabir Iyer,24,Female,Jaipur,Retail,22,Fixed Deposit;Investment,2,4209.89,39979.84,8,33,0,4,Y,0.0,Y,App
+CUST-0415,Saanvi Reddy,27,Female,Ahmedabad,Retail,34,Investment,1,4180.64,84975.27,10,21,1,1,N,0.0,Y,Call
+CUST-0416,Ishaan Kapoor,61,Female,Ahmedabad,Retail,170,Credit Card;Insurance;Investment;Personal Loan,4,9146.92,287500.83,57,32,1,1,N,34.3,N,Email
+CUST-0417,Vihaan Nair,44,Male,Jaipur,Retail,174,Investment;Personal Loan;Credit Card,3,13270.48,14079.59,14,15,2,4,N,35.4,Y,App
+CUST-0418,Meera Verma,67,Female,Hyderabad,SME,11,Fixed Deposit,1,53687.34,2255246.35,26,7,0,4,N,0.0,Y,Email
+CUST-0419,Rohan Reddy,26,Female,Chennai,Retail,157,Insurance;Savings,2,5722.69,51643.0,28,52,1,10,N,0.0,Y,App
+CUST-0420,Ishaan Nair,39,Female,Chennai,Retail,158,Personal Loan;Insurance,2,8332.13,20989.09,71,19,1,7,Y,0.0,Y,Email
+CUST-0421,Meera Joshi,68,Female,Delhi,Retail,130,Insurance;Investment,2,3046.02,32369.44,42,15,3,10,N,0.0,Y,App
+CUST-0422,Aarav Reddy,37,Female,Pune,Retail,34,Investment,1,3965.03,217034.9,17,13,4,8,Y,0.0,Y,Email
+CUST-0423,Rohan Pillai,30,Male,Bengaluru,Retail,127,Personal Loan;Investment,2,1409.24,73002.46,88,4,1,7,Y,0.0,Y,SMS
+CUST-0424,Vihaan Singh,43,Male,Chennai,Premium,130,Insurance;Personal Loan,2,49485.02,451598.23,7,2,1,5,N,0.0,Y,Email
+CUST-0425,Kabir Reddy,50,Non-binary,Mumbai,Retail,129,Investment,1,6886.61,26842.87,84,25,1,9,N,0.0,Y,App
+CUST-0426,Aanya Gupta,48,Male,Jaipur,Retail,142,Fixed Deposit;Personal Loan,2,21275.53,58474.77,41,37,2,7,N,0.0,Y,App
+CUST-0427,Anaya Joshi,69,Female,Chennai,Retail,71,Fixed Deposit,1,17388.96,52469.64,79,58,0,2,N,0.0,Y,Email
+CUST-0428,Aditya Nair,44,Female,Delhi,Retail,81,Savings;Investment;Insurance;Credit Card,4,19518.97,44512.36,36,46,1,9,Y,12.0,Y,App
+CUST-0429,Diya Das,26,Male,Ahmedabad,Retail,142,Fixed Deposit,1,14663.62,184458.6,29,6,0,5,N,0.0,Y,App
+CUST-0430,Zoya Patel,59,Female,Pune,Retail,180,Insurance;Investment;Savings,3,10733.59,22791.23,17,27,2,8,N,0.0,N,App
+CUST-0431,Vihaan Nair,64,Female,Delhi,Retail,145,Credit Card,1,11995.72,63773.37,41,27,3,7,Y,77.2,N,Email
+CUST-0432,Tara Singh,31,Male,Pune,Retail,64,Personal Loan,1,4918.64,113964.4,36,56,1,6,N,0.0,Y,App
+CUST-0433,Kabir Singh,53,Non-binary,Mumbai,Retail,36,Fixed Deposit;Credit Card;Investment,3,4669.14,13840.27,4,4,1,10,N,70.1,N,Email
+CUST-0434,Arjun Verma,22,Female,Chennai,Retail,36,Credit Card,1,3821.02,69913.29,41,31,2,9,Y,66.9,Y,App
+CUST-0435,Kabir Reddy,53,Male,Ahmedabad,Premium,144,Investment,1,12199.43,146922.43,95,7,3,4,N,0.0,Y,App
+CUST-0436,Anaya Das,42,Male,Pune,Retail,174,Savings;Insurance;Credit Card,3,8082.98,42340.47,0,21,0,5,N,16.3,Y,App
+CUST-0437,Vihaan Khan,37,Female,Delhi,SME,72,Credit Card;Savings,2,168713.58,386995.75,4,47,0,7,N,89.4,Y,App
+CUST-0438,Tara Das,53,Male,Delhi,Retail,73,Credit Card;Savings,2,11540.57,59750.33,27,13,4,10,Y,86.0,Y,SMS
+CUST-0439,Aanya Reddy,40,Male,Delhi,Retail,9,Insurance;Fixed Deposit,2,2853.8,44853.84,31,24,2,10,N,0.0,Y,App
+CUST-0440,Neha Das,61,Male,Delhi,SME,58,Credit Card,1,59606.52,436314.98,25,5,3,8,N,32.2,Y,App
+CUST-0441,Vihaan Iyer,50,Female,Mumbai,Retail,127,Insurance;Fixed Deposit;Savings,3,2365.92,54939.04,8,12,0,6,N,0.0,N,Call
+CUST-0442,Neha Shah,50,Female,Pune,Retail,62,Fixed Deposit;Personal Loan;Credit Card,3,8672.57,229103.22,7,58,2,10,Y,46.8,Y,App
+CUST-0443,Kavya Patel,24,Male,Ahmedabad,Retail,164,Savings;Investment,2,8112.07,18185.62,6,50,1,7,N,0.0,N,Email
+CUST-0444,Rohan Mehta,38,Female,Bengaluru,SME,23,Savings,1,33567.62,337376.97,31,1,0,9,Y,0.0,Y,App
+CUST-0445,Aanya Rao,28,Female,Chennai,Retail,173,Insurance;Fixed Deposit,2,16268.07,31909.33,18,13,0,4,N,0.0,Y,Call
+CUST-0446,Neha Patel,68,Female,Ahmedabad,Premium,159,Fixed Deposit;Personal Loan,2,103095.86,174111.16,6,30,3,8,Y,0.0,Y,SMS
+CUST-0447,Vihaan Singh,49,Female,Jaipur,Premium,116,Personal Loan;Credit Card;Savings,3,68581.85,730605.73,72,23,3,8,N,22.2,N,App
+CUST-0448,Meera Khan,43,Male,Pune,Retail,139,Personal Loan,1,4913.35,92060.53,40,18,4,6,N,0.0,N,SMS
+CUST-0449,Aarav Shah,60,Female,Delhi,SME,70,Fixed Deposit;Savings;Personal Loan,3,29035.58,1527119.38,22,4,2,3,N,0.0,N,SMS
+CUST-0450,Aanya Kapoor,44,Female,Chennai,Premium,91,Savings;Personal Loan;Fixed Deposit,3,68060.28,344936.52,75,15,5,10,N,0.0,Y,SMS
+CUST-0451,Neha Khan,70,Female,Hyderabad,Premium,20,Personal Loan;Credit Card,2,32975.21,116514.84,18,24,2,6,N,97.1,N,Email
+CUST-0452,Neha Gupta,63,Female,Delhi,Retail,30,Personal Loan;Investment;Insurance,3,7847.17,59670.81,8,35,0,4,Y,0.0,Y,Call
+CUST-0453,Meera Iyer,22,Male,Mumbai,SME,141,Insurance;Personal Loan;Investment;Fixed Deposit,4,36634.21,489150.55,10,19,0,7,N,0.0,Y,App
+CUST-0454,Aarav Singh,50,Female,Ahmedabad,SME,158,Fixed Deposit;Personal Loan,2,113903.96,882100.12,65,13,2,6,Y,0.0,Y,App
+CUST-0455,Ishaan Gupta,23,Male,Jaipur,SME,176,Fixed Deposit;Personal Loan;Savings;Investment,4,18012.95,3290606.59,11,5,4,10,Y,0.0,Y,Email
+CUST-0456,Tara Rao,70,Male,Jaipur,SME,108,Investment,1,17294.11,881150.05,43,27,0,7,Y,0.0,Y,App
+CUST-0457,Arjun Gupta,62,Female,Pune,Premium,7,Investment;Insurance;Savings,3,29186.01,479581.92,9,28,1,8,N,0.0,N,Call
+CUST-0458,Meera Pillai,33,Female,Mumbai,Retail,106,Insurance;Investment,2,8490.36,15684.4,26,26,2,8,N,0.0,Y,App
+CUST-0459,Kabir Singh,66,Female,Hyderabad,Retail,68,Investment;Personal Loan,2,11496.4,13842.25,42,7,0,8,N,0.0,Y,Email
+CUST-0460,Kabir Desai,69,Female,Ahmedabad,Retail,48,Savings;Fixed Deposit,2,8257.56,104122.83,36,16,0,8,N,0.0,Y,Email
+CUST-0461,Neha Nair,26,Female,Chennai,Retail,124,Insurance;Personal Loan,2,8396.68,26433.43,31,32,0,6,N,0.0,N,App
+CUST-0462,Anaya Pillai,25,Female,Chennai,Retail,43,Personal Loan,1,4095.51,253025.14,53,24,3,5,Y,0.0,Y,SMS
+CUST-0463,Neha Verma,67,Male,Mumbai,Retail,63,Savings,1,6456.84,17081.7,10,18,2,6,Y,0.0,N,App
+CUST-0464,Neha Iyer,52,Male,Hyderabad,Retail,108,Fixed Deposit;Investment;Savings,3,9130.7,14354.42,24,85,4,8,Y,0.0,Y,App
+CUST-0465,Anaya Das,22,Female,Pune,Retail,163,Credit Card;Savings;Investment;Personal Loan,4,4097.9,97679.64,16,14,0,9,N,14.1,N,App
+CUST-0466,Aarav Singh,26,Female,Hyderabad,Retail,127,Investment,1,13600.18,119341.18,39,4,1,9,Y,0.0,N,SMS
+CUST-0467,Aarav Mehta,22,Female,Bengaluru,Retail,153,Investment,1,45116.34,90623.76,53,14,1,8,N,0.0,Y,App
+CUST-0468,Diya Verma,37,Female,Mumbai,Premium,7,Investment;Fixed Deposit,2,28429.46,576000.59,32,20,1,9,N,0.0,N,App
+CUST-0469,Saanvi Reddy,25,Female,Delhi,Retail,168,Insurance,1,6786.59,16783.42,6,12,4,9,N,0.0,Y,Call
+CUST-0470,Saanvi Singh,43,Female,Jaipur,Retail,173,Fixed Deposit;Insurance;Credit Card,3,13848.6,209004.12,71,11,2,6,N,15.9,Y,Call
+CUST-0471,Aditya Das,28,Female,Ahmedabad,Retail,91,Savings;Investment;Fixed Deposit;Insurance,4,9065.89,105943.75,13,32,3,9,N,0.0,Y,App
+CUST-0472,Vihaan Mehta,55,Female,Hyderabad,SME,3,Credit Card;Fixed Deposit,2,105081.43,218320.63,30,5,1,8,Y,80.5,N,App
+CUST-0473,Kavya Desai,63,Female,Mumbai,Retail,108,Fixed Deposit,1,9744.37,225711.21,44,15,1,7,Y,0.0,Y,App
+CUST-0474,Saanvi Verma,26,Female,Delhi,Retail,165,Investment,1,8875.71,183500.08,17,35,0,8,N,0.0,Y,Email
+CUST-0475,Aditya Iyer,66,Female,Bengaluru,Retail,94,Fixed Deposit,1,7957.32,10203.0,41,34,1,8,N,0.0,Y,Email
+CUST-0476,Ishaan Joshi,49,Female,Mumbai,Retail,174,Fixed Deposit;Insurance,2,6366.53,85830.47,10,3,3,5,N,0.0,Y,Email
+CUST-0477,Vihaan Mehta,24,Male,Mumbai,Retail,46,Investment,1,9008.36,49807.87,65,25,0,8,Y,0.0,N,Call
+CUST-0478,Diya Iyer,53,Male,Pune,Retail,135,Investment,1,5088.96,74494.65,17,7,1,7,N,0.0,N,Email
+CUST-0479,Tara Singh,53,Female,Hyderabad,SME,72,Credit Card,1,67501.21,498019.55,37,17,0,7,Y,35.2,N,Email
+CUST-0480,Anaya Mehta,40,Female,Delhi,Premium,18,Savings,1,17885.29,113055.65,18,51,1,8,N,0.0,Y,Call
+CUST-0481,Arjun Khan,29,Male,Mumbai,Premium,10,Fixed Deposit,1,52930.83,410936.62,33,17,3,5,N,0.0,N,App
+CUST-0482,Ishaan Verma,67,Female,Pune,Retail,177,Personal Loan;Investment,2,10382.08,99339.11,25,10,1,9,N,0.0,Y,SMS
+CUST-0483,Ishaan Shah,54,Male,Mumbai,Premium,145,Fixed Deposit,1,24506.05,652431.61,35,5,5,6,Y,0.0,Y,Email
+CUST-0484,Saanvi Patel,32,Female,Hyderabad,Retail,38,Credit Card;Fixed Deposit;Savings;Investment,4,8804.53,67428.44,8,20,2,9,Y,53.6,N,App
+CUST-0485,Saanvi Khan,64,Male,Mumbai,Retail,76,Personal Loan,1,5257.25,91231.39,17,3,0,5,N,0.0,Y,App
+CUST-0486,Aanya Verma,32,Female,Hyderabad,Premium,148,Personal Loan;Savings,2,38367.38,308250.15,45,29,0,9,N,0.0,Y,Call
+CUST-0487,Meera Verma,28,Female,Jaipur,SME,114,Credit Card,1,39534.81,235561.46,17,24,0,3,Y,21.1,Y,SMS
+CUST-0488,Diya Shah,69,Male,Delhi,Retail,25,Insurance,1,23936.17,92270.35,70,69,3,7,Y,0.0,Y,Email
+CUST-0489,Anaya Verma,63,Male,Ahmedabad,Retail,107,Fixed Deposit,1,5662.89,39688.43,5,10,2,8,N,0.0,Y,App
+CUST-0490,Ishaan Iyer,25,Male,Pune,SME,122,Personal Loan;Fixed Deposit,2,116664.66,72876.0,14,24,2,7,N,0.0,Y,Email
+CUST-0491,Ishaan Desai,40,Male,Chennai,Retail,177,Savings,1,15934.77,106663.3,9,10,1,3,N,0.0,Y,Call
+CUST-0492,Saanvi Verma,38,Male,Delhi,Retail,32,Fixed Deposit;Investment,2,4078.66,259261.44,7,45,2,7,N,0.0,Y,App
+CUST-0493,Kavya Gupta,68,Female,Chennai,Retail,128,Credit Card;Fixed Deposit,2,2685.34,73481.77,14,9,2,7,Y,76.6,N,App
+CUST-0494,Tara Joshi,66,Female,Mumbai,Retail,125,Fixed Deposit,1,4437.25,20624.04,15,14,1,8,Y,0.0,Y,App
+CUST-0495,Kavya Desai,52,Female,Delhi,Retail,114,Personal Loan;Savings,2,18480.4,20980.75,39,20,0,7,N,0.0,Y,App
+CUST-0496,Meera Rao,52,Male,Jaipur,Retail,131,Fixed Deposit,1,4507.5,29723.1,21,26,0,9,N,0.0,N,Email
+CUST-0497,Diya Mehta,46,Male,Ahmedabad,Retail,169,Insurance,1,12989.78,188822.92,24,12,1,9,N,0.0,Y,SMS
+CUST-0498,Ishaan Verma,63,Female,Jaipur,Retail,31,Insurance;Fixed Deposit;Investment;Personal Loan,4,14698.74,189986.31,37,26,4,6,N,0.0,Y,Email
+CUST-0499,Tara Rao,48,Female,Mumbai,SME,179,Credit Card,1,118004.02,115577.63,33,6,4,8,N,94.2,Y,Email
+CUST-0500,Meera Gupta,25,Female,Mumbai,SME,48,Credit Card,1,17910.28,1139169.57,82,45,1,7,Y,35.8,Y,Email
